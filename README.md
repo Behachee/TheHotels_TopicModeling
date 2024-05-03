@@ -7,6 +7,4 @@
 3.	 Perform sentiment analysis on the Text column to determine the overall sentiment of each review. Assign a positive or negative status based on the sentiment score. This will help THEHOTEL.com to quickly gauge the overall satisfaction level of their guests.
 4.	 Focus specifically on negative reviews and analyze the common themes of guest complaints. Identify keywords, phrases, or topics that appear frequently in negative reviews to pinpoint areas that need attention and improvement.
 
-
-
-[Advanced_Analytics_Data Monetization-Assignment_2-Theo_Belen-Halimi.pptx](https://github.com/Behachee/TheHotels_TopicModeling/files/15202831/Advanced_Analytics_Data.Monetization-Assignment_2-Theo_Belen-Halimi.pptx)
+<img width="976" alt="image" src="https://github.com/Behachee/TheHotels_TopicModeling/assets/140748662/a6c896a1-7cb1-4eb5-8d15-9ae1584aef71">
